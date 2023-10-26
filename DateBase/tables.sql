@@ -1,3 +1,8 @@
+-- Criar e usar a bd
+create database projecto_pooII;
+use projecto_pooII;
+
+-- Criando as tabelas
 -- Tabela Users
 CREATE TABLE `users` (
     `id` int not null primary key,
