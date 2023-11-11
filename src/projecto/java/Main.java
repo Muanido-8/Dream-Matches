@@ -4,7 +4,7 @@ import views.Window;
 import views.auth.Login;
 
 public class Main {
-
+    //Main principal
     public static void main(String[] args) {
         Window win = new Window();
         win.setTitle("Dream Matches");
